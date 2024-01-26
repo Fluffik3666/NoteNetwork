@@ -1,0 +1,12 @@
+secrets:
+  key: "<insert secret key here>"
+
+master:
+  enablemaster: "<True or False>"
+  masterusername: "<insert username here>"
+  masterpassword: "<insert password here>"
+
+openai:
+  enableopenai: "<True or False>"
+  organisationid: "<insert organisation key here>"
+  apikey: "<insert api key here>"
